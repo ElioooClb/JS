@@ -32,3 +32,8 @@ background: rgb(50, 22, 105);
 border-radius: 30px;
 border : 6px dashed red
 }
+.showResponse {
+    visibility: visible;
+    opacity: 1;
+    transform: translate(0);
+}
